@@ -31,3 +31,5 @@ int rooty_init(void) {
 void rooty_exit(void) {
 	printk("rooty: module removed\n");
 }
+
+/*Test Comment*/
