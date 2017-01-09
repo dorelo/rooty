@@ -5,7 +5,7 @@
 /* This is a "driver template". It requires:
  * MODULE_LICENSE();
  * module_init();
- * module_exit();
+ *  module_exit();
  *
  * It will allow us to load a kernel module, we're naming it `rooty`
  */
