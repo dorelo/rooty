@@ -1,7 +1,4 @@
-## Disclaimer
-This repository contains code I have written for my own education. Most of it can hardly be considered rootkit-worthy, and is just for learning.
-
-It was also a first introduction to linux kernel programming.
+A simple Linux kernel driver, that doesn't do anything particularly interesting. My first foray into linux kernel programming.
 
 ### To Do:
 1. Rewrite for use with VFS
